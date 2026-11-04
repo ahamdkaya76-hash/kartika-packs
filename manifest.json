@@ -1,0 +1,52 @@
+{
+  "format": "kartika-manifest",
+  "version": 1,
+  "updated": "2026-11-04T22:19:04Z",
+  "packs": [
+    {
+      "id": "kartika-504",
+      "name": "504 واژه ضروری",
+      "description": "",
+      "version": 1,
+      "free": true,
+      "file": "kartika-504.zip",
+      "sha256": "d007deeab5ad366541b6a81d06ac5f26886e0950564b8664ed29d07ec0a138f3",
+      "size": 137144,
+      "cards": 505,
+      "urls": [
+        "https://raw.githubusercontent.com/ahamdkaya76-hash/kartika-packs/main/packs/kartika-504.zip",
+        "https://cdn.jsdelivr.net/gh/ahamdkaya76-hash/kartika-packs@main/packs/kartika-504.zip"
+      ]
+    },
+    {
+      "id": "oxford-elementary",
+      "name": "آکسفورد مقدماتی",
+      "description": "",
+      "version": 1,
+      "free": false,
+      "file": "oxford-elementary.kpack",
+      "sha256": "08291a05f2d70f5933bd6c7b8c649469c4d54c1532200810732f2e9cda87a474",
+      "size": 250536,
+      "cards": 2537,
+      "urls": [
+        "https://raw.githubusercontent.com/ahamdkaya76-hash/kartika-packs/main/packs/oxford-elementary.kpack",
+        "https://cdn.jsdelivr.net/gh/ahamdkaya76-hash/kartika-packs@main/packs/oxford-elementary.kpack"
+      ]
+    },
+    {
+      "id": "collocations",
+      "name": "ollocations",
+      "description": "",
+      "version": 1,
+      "free": false,
+      "file": "collocations.kpack",
+      "sha256": "1ffcd6287af183972565b1fb66a0141e4d513a27a119e02ed7a0893c47462fa0",
+      "size": 188973,
+      "cards": 3047,
+      "urls": [
+        "https://raw.githubusercontent.com/ahamdkaya76-hash/kartika-packs/main/packs/collocations.kpack",
+        "https://cdn.jsdelivr.net/gh/ahamdkaya76-hash/kartika-packs@main/packs/collocations.kpack"
+      ]
+    }
+  ]
+}
