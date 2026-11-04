@@ -1,7 +1,7 @@
 {
   "format": "kartika-manifest",
   "version": 1,
-  "updated": "2026-11-04T22:19:04Z",
+  "updated": "2026-11-05T00:44:33Z",
   "packs": [
     {
       "id": "kartika-504",
@@ -10,7 +10,7 @@
       "version": 1,
       "free": true,
       "file": "kartika-504.zip",
-      "sha256": "d007deeab5ad366541b6a81d06ac5f26886e0950564b8664ed29d07ec0a138f3",
+      "sha256": "d39168c3e1776146162d5f1ca8243d071949311bec41b2399345353cda28c48d",
       "size": 137144,
       "cards": 505,
       "urls": [
@@ -25,7 +25,7 @@
       "version": 1,
       "free": false,
       "file": "oxford-elementary.kpack",
-      "sha256": "08291a05f2d70f5933bd6c7b8c649469c4d54c1532200810732f2e9cda87a474",
+      "sha256": "fb8e926ebe967a9382ba439a9caf2f8c36dc87900bccf16b86b0a51a5a5621ec",
       "size": 250536,
       "cards": 2537,
       "urls": [
@@ -35,13 +35,13 @@
     },
     {
       "id": "collocations",
-      "name": "ollocations",
+      "name": "Collocations",
       "description": "",
       "version": 1,
       "free": false,
       "file": "collocations.kpack",
-      "sha256": "1ffcd6287af183972565b1fb66a0141e4d513a27a119e02ed7a0893c47462fa0",
-      "size": 188973,
+      "sha256": "b735fbbd84ba22336581493bf17ec02a5abb525aa92aed02643081560e242897",
+      "size": 188974,
       "cards": 3047,
       "urls": [
         "https://raw.githubusercontent.com/ahamdkaya76-hash/kartika-packs/main/packs/collocations.kpack",
