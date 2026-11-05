@@ -1,7 +1,7 @@
 {
   "format": "kartika-manifest",
   "version": 1,
-  "updated": "2026-11-05T22:14:33Z",
+  "updated": "2026-11-05T22:18:16Z",
   "packs": [
     {
       "id": "kartika-504",
@@ -10,7 +10,7 @@
       "version": 1,
       "free": true,
       "file": "kartika-504.zip",
-      "sha256": "febb2497795268fb598bbc4aabd7104d726472ac7ffe8d602b712c58a5f38c54",
+      "sha256": "c1614d281dcc5772317f33c23bc6dbbe2436ee208c68cb90f374957dd474054d",
       "size": 137144,
       "cards": 505,
       "urls": [
@@ -25,7 +25,7 @@
       "version": 1,
       "free": false,
       "file": "oxford-elementary.kpack",
-      "sha256": "86950d02322a2738b1014b99895cee11898b00ade32abb06fd04a8d80e8755c5",
+      "sha256": "60d3c6ec9c88da8f6433a2a1f8afba92c276798ccf0ca9643955a3279eecec07",
       "size": 250536,
       "cards": 2537,
       "urls": [
@@ -40,7 +40,7 @@
       "version": 1,
       "free": false,
       "file": "collocations.kpack",
-      "sha256": "a9ba7efe44c5217efcc79617945dd7d0c27761eed98ebe4b6deb3059ab8c7958",
+      "sha256": "f92daa2e581ca598e359328afb7fdef34ff2e92b0464d800369ad09c52af755d",
       "size": 188974,
       "cards": 3047,
       "urls": [
