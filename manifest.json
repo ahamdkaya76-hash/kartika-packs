@@ -2,7 +2,7 @@
   "format": "kartika-manifest",
   "version": 1,
   "rev": 1,
-  "updated": "2026-11-11T21:41:21Z",
+  "updated": "2026-11-12T15:49:51Z",
   "packs": [
     {
       "id": "504-absolutely-essential-words",
@@ -11,7 +11,7 @@
       "version": 1,
       "free": true,
       "file": "504-absolutely-essential-words.zip",
-      "sha256": "24b7eaa5f624ea54ceb47de892c6c7b540686a97c553599a6640dfad9ffeda61",
+      "sha256": "6f18c29e79c9adc7827fd8108e7feeda13cff57efcf32cea64695d62c1986961",
       "size": 93715,
       "cards": 505,
       "urls": [
@@ -26,7 +26,7 @@
       "version": 1,
       "free": false,
       "file": "collocations.kpack",
-      "sha256": "395ef1701f26f3784e53a4b3e8aeae525e20c25f4fe4d446323e290f64799e20",
+      "sha256": "3e946169cbdf47b2702ec2218312f013ca6e1d5b4ff456a6ed357bbfb1b69a8a",
       "size": 392005,
       "cards": 2794,
       "urls": [
@@ -41,7 +41,7 @@
       "version": 1,
       "free": false,
       "file": "oxford-elementary-vocabulary.kpack",
-      "sha256": "5972fbf22b85fb403e3761166d2b93e122eaaebf65aa486399e7dc7c92687a13",
+      "sha256": "382d16f1b349ac574435fc06aa33a4cc8bb16487066ecf3faa2c8e8728c3d2c2",
       "size": 272376,
       "cards": 2509,
       "urls": [
