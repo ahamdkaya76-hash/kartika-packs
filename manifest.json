@@ -1,17 +1,17 @@
 {
   "format": "kartika-manifest",
   "version": 1,
-  "rev": 3,
-  "updated": "2026-11-11T21:34:24Z",
+  "rev": 1,
+  "updated": "2026-11-11T21:41:21Z",
   "packs": [
     {
       "id": "504-absolutely-essential-words",
       "name": "504 Absolutely Essential Words",
       "description": "",
-      "version": 3,
+      "version": 1,
       "free": true,
       "file": "504-absolutely-essential-words.zip",
-      "sha256": "beec7ce366ae2808a58341b02f295d8b65ea005f75c23c5c35873ac3f5d4a935",
+      "sha256": "24b7eaa5f624ea54ceb47de892c6c7b540686a97c553599a6640dfad9ffeda61",
       "size": 93715,
       "cards": 505,
       "urls": [
@@ -23,10 +23,10 @@
       "id": "collocations",
       "name": "English Collocations in Use",
       "description": "",
-      "version": 3,
+      "version": 1,
       "free": false,
       "file": "collocations.kpack",
-      "sha256": "efb9e52587e6b792c62e94c16d350bf292f0c11177d9e738b00252fd976e8f58",
+      "sha256": "395ef1701f26f3784e53a4b3e8aeae525e20c25f4fe4d446323e290f64799e20",
       "size": 392005,
       "cards": 2794,
       "urls": [
@@ -38,10 +38,10 @@
       "id": "oxford-elementary-vocabulary",
       "name": "Oxford Elementary Vocabulary",
       "description": "",
-      "version": 3,
+      "version": 1,
       "free": false,
       "file": "oxford-elementary-vocabulary.kpack",
-      "sha256": "cbd28f9e278fedc91faee078a086ea2cc8e21cfa2748b9c7425a43143850280e",
+      "sha256": "5972fbf22b85fb403e3761166d2b93e122eaaebf65aa486399e7dc7c92687a13",
       "size": 272376,
       "cards": 2509,
       "urls": [
